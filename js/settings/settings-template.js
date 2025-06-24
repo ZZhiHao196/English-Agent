@@ -210,7 +210,7 @@ export const settingsTemplate = {
     maxTokens: 512,
     topP: 0.9,
     topK: 40,
-    sampleRate: '16000',
+    sampleRate: '24000',
     voiceType: 'Aoede',
     voiceSpeed: 1.0,
     systemInstructions: 'You are a helpful English tutor. Help the user practice English conversation.'
