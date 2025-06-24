@@ -1,7 +1,7 @@
 export const getWebsocketUrl=()=>{
     // Return only the base proxy URL, like in the successful backup project
     // The full path and API key will be constructed in client.js
-    return 'wss://socket.zzhihao.sbs';
+    return 'wss://socket.zzhihao.online';
 }
 
 // Helper function to get settings from unified settings object or fallback to individual keys
